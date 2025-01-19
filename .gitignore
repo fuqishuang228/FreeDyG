@@ -1,6 +1,6 @@
 DG_data/
 saved_models/*
-_pycache_/*
+__pycache__/*
 logs/*
 DG_Data/dataset.txt
 DG_Data/datasets_readme.md
