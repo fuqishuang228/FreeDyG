@@ -1,7 +1,7 @@
 DG_data/
-saved_models/
-_pycache_/
-logs/
+saved_models/*
+_pycache_/*
+logs/*
 DG_Data/dataset.txt
 DG_Data/datasets_readme.md
 DG_Data/SocialEvo/SocialEvo/ml_SocialEvo_node.npy
